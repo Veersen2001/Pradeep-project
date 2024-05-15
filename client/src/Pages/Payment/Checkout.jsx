@@ -39,7 +39,7 @@ export default function Checkout() {
     const options = {
       key: rzorpayKey,
       subscription_id: subscription_id,
-      name: "Coursify Pvt Ltd",
+      name: "Rostrise.com",
       description: "subscription",
       theme: {
         color: "#fff",
